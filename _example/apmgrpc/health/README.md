@@ -7,7 +7,7 @@ Health monitoring by sending requests to an endpoint on the application.
 ```sh
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
-cd ~/go/src/stash.bms.bz/bms/monitoringsystem/_example/grpc/health
+cd ~/go/src/github.com/apoorvakumar690/monitoringsystem/_example/grpc/health
 protoc --go_out=plugins=grpc:. health.proto
 ```
 

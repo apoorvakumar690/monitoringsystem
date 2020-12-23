@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"stash.bms.bz/bms/monitoringsystem"
+	"github.com/apoorvakumar690/monitoringsystem"
 )
 
 type handler struct {

@@ -6,7 +6,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	"stash.bms.bz/bms/monitoringsystem"
+	"github.com/apoorvakumar690/monitoringsystem"
 )
 
 var (

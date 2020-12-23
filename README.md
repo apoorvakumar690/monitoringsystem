@@ -7,7 +7,7 @@ Go Agent allows you to monitor your Go applications currently supported with New
 To install run the following command
 
 ```sh
-go get stash.bms.bz/bms/monitoringsystem
+go get github.com/apoorvakumar690/monitoringsystem
 ```
 
 ## NewRelic

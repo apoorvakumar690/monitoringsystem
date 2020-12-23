@@ -7,9 +7,9 @@ import (
 
 	"google.golang.org/grpc"
 
-	"stash.bms.bz/bms/monitoringsystem"
-	"stash.bms.bz/bms/monitoringsystem/_example/apmgrpc/health"
-	"stash.bms.bz/bms/monitoringsystem/apmgrpc"
+	"github.com/apoorvakumar690/monitoringsystem"
+	"github.com/apoorvakumar690/monitoringsystem/_example/apmgrpc/health"
+	"github.com/apoorvakumar690/monitoringsystem/apmgrpc"
 )
 
 // H monitors the underlying services that iam-broker relies on.
